@@ -5,4 +5,5 @@ const router = express.Router();
 router.get('/', function(req, res){
     res.send('Home route');
 });
+
 module.exports = router;//como se exporta el router en el browser es NodeJS no JS

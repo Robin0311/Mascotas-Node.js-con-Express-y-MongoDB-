@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/Robin0311/Mascotas-Node.js-con-Express-y-MongoDB-#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0",
+    "nodemon": "^2.0.18"
   }
 }
